@@ -1,13 +1,12 @@
-### **_Hello There!!_** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> It's [Mohd Imran!](https://www.linkedin.com/in/mohd-i-448428190)
-
+### **Hello There!!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> It's [Mohd Imran!](https://www.linkedin.com/in/mohd-i-448428190)
 <br/>
-![](https://visitor-badge.glitch.me/badge?page_id=stark255.stark255)
+
 <br />
 <a href="https://www.linkedin.com/in/mohd-i-448428190/">
-  <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_mohdimran_500/">
-<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="developer" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
 <p align="center">
@@ -18,7 +17,8 @@ Hi,I'm a full stack MERN Developer. Apart from that I love getting involved in C
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-
+<br/>
+<br/>
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently participating in MLH Local Hack Day.
@@ -26,8 +26,17 @@ Hi,I'm a full stack MERN Developer. Apart from that I love getting involved in C
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform .
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<p align="center">
+  Join our MLH Guild <b>EddieHub</b> for #LocalHackDay to earn more points and swag! <a href="https://localhackday.mlh.io/build">Sign up now</a>
+</p>
 
-
+![MLH: Build](https://github.com/yalematta/yalematta/blob/master/github_profile_mlh.png)
 
 **Languages and Tools:**
 
@@ -48,6 +57,3 @@ Hi,I'm a full stack MERN Developer. Apart from that I love getting involved in C
 
 
 ![stark255's github stats](https://github-readme-stats.vercel.app/api?username=stark255&show_icons=true&hide_border=true)
-
-
-
