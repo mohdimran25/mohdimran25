@@ -1,7 +1,7 @@
 ### **Hello There!!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> It's [Mohd Imran!](https://www.linkedin.com/in/mohd-i-448428190)
 <br/>
 
-<br />
+
 <a href="https://www.linkedin.com/in/mohd-i-448428190/">
   <img align="left" alt="Linkedin" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
