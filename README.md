@@ -9,6 +9,7 @@
 <img align="left" alt="developer" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
+<br/>
 <p align="center">
 <img height="300" align="center" src="https://octodex.github.com/images/privateinvestocat.jpg" />
 </p>
