@@ -1,21 +1,20 @@
-### Hello There35 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> It's [Mohd Imran!](https://www.linkedin.com/in/mohd-i-448428190)
+### **_Hello There!!_** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> It's [Mohd Imran!](https://www.linkedin.com/in/mohd-i-448428190)
 
 <br/>
-
-
-
-<a href="https://www.linkedin.com/in/mohd-i-448428190">
-<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+![](https://visitor-badge.glitch.me/badge?page_id=stark255.stark255)
+<br />
+<a href="https://www.linkedin.com/in/mohd-i-448428190/">
+  <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_mohdimran_500/">
 <img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
-
-<br />
-
+<p align="center">
+<img height="300" src="https://octodex.github.com/images/privateinvestocat.jpg" />
+</p>
+<br/>
 Hi,I'm a full stack MERN Developer. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
-
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
