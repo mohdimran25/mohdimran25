@@ -20,12 +20,12 @@ Hi,I'm a full stack MERN Developer. Apart from that I love getting involved in C
 <br/>
 <br/>
 **Talking about Personal Stuffs:**
-
 - 🔭 I’m currently participating in MLH Local Hack Day.
 - 🌱 I’m Full stack MERN developer.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform .
+
 <br/>
 <br/>
 <br/>
