@@ -55,4 +55,13 @@ Hi,I'm a full stack MERN Developer. Apart from that I love getting involved in C
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 
-![stark255's github stats](https://github-readme-stats.vercel.app/api?username=stark255&show_icons=true&hide_border=true)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stark255&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stark255&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+</a>
+
+<!-- ![stark255's Github stats](https://github-readme-stats.vercel.app/api?username=sreekaransrinath&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stark255&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) -->
