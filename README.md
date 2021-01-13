@@ -10,15 +10,13 @@
 </a>
 <br />
 <p align="center">
-<img height="300" src="https://octodex.github.com/images/privateinvestocat.jpg" />
+<img height="300" align="center" src="https://octodex.github.com/images/privateinvestocat.jpg" />
 </p>
 <br/>
 Hi,I'm a full stack MERN Developer. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-<br/>
-<br/>
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently participating in MLH Local Hack Day.
 - 🌱 I’m Full stack MERN developer.
