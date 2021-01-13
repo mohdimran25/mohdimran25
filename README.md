@@ -1,6 +1,7 @@
 ### **Hello There!!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> It's [Mohd Imran!](https://www.linkedin.com/in/mohd-i-448428190)
 <br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stark255&label=Profile%20views&color=0e75b6&style=flat" alt="stark255" /> </p>
 
 <a href="https://www.linkedin.com/in/mohd-i-448428190/">
   <img align="left" alt="Linkedin" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -8,6 +9,8 @@
 <a href="https://www.instagram.com/_mohdimran_500/">
 <img align="left" alt="developer" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+
 <br />
 <br/>
 <p align="center">
@@ -55,13 +58,10 @@ Hi,I'm a full stack MERN Developer. Apart from that I love getting involved in C
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stark255&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stark255&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-</a>
 
-<!-- ![stark255's Github stats](https://github-readme-stats.vercel.app/api?username=stark255&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![stark255's github stats](https://github-readme-stats.vercel.app/api?username=stark255&theme=synthwave&show_icons=true&layout=demo)
+![stark255's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=stark255&show_icons=true&locale=en&layout=demo&theme=gruvbox&langs_count=20&hide=c%15,Vim%20script,CSS,Jupyter%20Notebook,java)
+![stark255's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stark255&show_icons=true&locale=en&layout=demo&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stark255&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) -->
+**Visitors Count**
+![VisitorCount](https://profile-counter.glitch.me/{stark255}/count.svg)
