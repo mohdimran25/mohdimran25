@@ -60,7 +60,7 @@ Hi,I'm a full stack MERN Developer. Apart from that I love getting involved in C
 
 
 ![stark255's github stats](https://github-readme-stats.vercel.app/api?username=stark255&theme=synthwave&show_icons=true&layout=demo)
-![stark255's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=stark255&show_icons=true&locale=en&layout=demo&theme=gruvbox&langs_count=20&hide=c%15,Vim%20script,CSS,Jupyter%20Notebook,java)
+![stark255's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=stark255&show_icons=true&locale=en&layout=demo&theme=gruvbox&langs_count=20&hide=c%5,Vim%2script,CSS,Jupyter%20Notebook,java)
 ![stark255's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stark255&show_icons=true&locale=en&layout=demo&theme=gruvbox)
 
 **Visitors Count**
