@@ -34,11 +34,7 @@ Hi,I'm a full stack MERN Developer. Apart from that I love getting involved in C
 <br/>
 <br/>
 <br/>
-<p align="center">
-  Join our MLH Guild <b>EddieHub</b> for #LocalHackDay to earn more points and swag! <a href="https://localhackday.mlh.io/build">Sign up now</a>
-</p>
 
-![MLH: Build](https://github.com/yalematta/yalematta/blob/master/github_profile_mlh.png)
 
 **Languages and Tools:**
 
