@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stark255&label=Profile%20views&color=0e75b6&style=flat" alt="stark255" /> </p>
 
 <a href="https://www.linkedin.com/in/mohd-i-448428190/">
-  <img align="left" alt="Linkedin" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_mohdimran_500/">
-<img align="left" alt="developer" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
 </a>
 
 
