@@ -24,7 +24,7 @@
 
 🎓 I'm a full stack MERN Developer and Open-Source Enthusiast and a Sophomore pursuing my Bachelors in Computer Science & Engineering.
 <br/>
-👨‍💻Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+👨‍💻 Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
