@@ -4,12 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stark255&label=Profile%20views&color=0e75b6&style=flat" alt="stark255" /> </p>
 
 <a href="https://www.linkedin.com/in/mohd-i-448428190/">
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
+  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_mohdimran_500/">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
 </a>
-
+<a href="https://twitter.com/stark_255">
+  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
 <br />
 <br/>
@@ -17,12 +19,16 @@
 <img height="300" align="center" src="https://octodex.github.com/images/privateinvestocat.jpg" />
 </p>
 <br/>
-Hi,I'm a full stack MERN Developer. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+
+### About Me 🚀
+
+🎓 I'm a full stack MERN Developer and Open-Source Enthusiast and a Sophomore pursuing my Bachelors in Computer Science & Engineering.
+<br/>
+👨‍💻Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 **Talking about Personal Stuffs:**
-- 🔭 I’m currently participating in MLH Local Hack Day.
 - 🌱 I’m Full stack MERN developer.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
