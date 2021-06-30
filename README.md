@@ -27,14 +27,7 @@
 👨‍💻 Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 
-**Talking about Personal Stuffs:**
-- 🌱 I’m Full stack MERN developer.
-- 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform .
 
-<br/>
-<br/>
 
 
 
