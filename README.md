@@ -4,21 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stark255&label=Profile%20views&color=0e75b6&style=flat" alt="stark255" /> </p>
 
 <a href="https://www.linkedin.com/in/mohd-i-448428190/">
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/_mohdimran_500/">
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/stark_255">
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+  <img width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>&ensp;
 
-<br />
+<a href="https://twitter.com/stark_255">
+  <img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+</a>&ensp;
+
 <br/>
-<p align="center">
-<img height="300" align="right" src="https://octodex.github.com/images/privateinvestocat.jpg" />
-</p>
-<br/>
+<hr/>
 
 ### About Me 🚀
 
@@ -26,29 +20,25 @@
 <br/>
 👨‍💻 Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
+<hr/>
 
 
 
+### Languages and Tools:
 
+<img height="45" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">&ensp;
+<img height="45" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">&ensp;
+<img height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">&ensp;
+<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">&ensp;
+<img height="45" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">&ensp;
+<img height="45" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">&ensp;
+<img height="45" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&ensp;
+<img height="45" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">&ensp;
+<img height="45" src="https://github.com/manuelbieh/logo-file-icons/blob/master/icons/css.svg">&ensp;
+<img height="45" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">&ensp;
+<img height="45" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">&ensp;
 
-**Languages and Tools:**
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
-
+<hr/>
 
 ![stark255's github stats](https://github-readme-stats.vercel.app/api?username=stark255&theme=synthwave&show_icons=true&layout=demo)
 ![stark255's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=stark255&show_icons=true&locale=en&align=right&layout=demo&theme=gruvbox&langs_count=20&hide=c%5,Vim%2script,CSS,Jupyter%20Notebook,java)
