@@ -1,8 +1,9 @@
-### **Hello There!!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> It's [Mohd Imran!](https://www.linkedin.com/in/mohd-i-448428190)
+# _**Hello There!!**_ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> It's [Mohd Imran!](https://www.linkedin.com/in/mohd-i-448428190)
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stark255&label=Profile%20views&color=0e75b6&style=flat" alt="stark255" /> </p>
 
+## Connect with ME :
 <a href="https://www.linkedin.com/in/mohd-i-448428190/">
   <img width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>&ensp;
