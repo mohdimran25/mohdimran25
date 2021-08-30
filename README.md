@@ -41,6 +41,6 @@
 
 <hr/>
 
-![stark255's github stats](https://github-readme-stats.vercel.app/api?username=stark255&theme=synthwave&show_icons=true&layout=demo)
-![stark255's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=stark255&show_icons=true&locale=en&align=right&layout=demo&theme=gruvbox&langs_count=20&hide=c%5,Vim%2script,CSS,Jupyter%20Notebook,java)
+[![Mohd Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=stark255&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stark255&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![stark255's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stark255&show_icons=true&locale=en&layout=demo&theme=gruvbox)
