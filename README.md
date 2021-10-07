@@ -22,7 +22,7 @@
 
 ### About Me 🚀
 
-🎓 I'm a full stack MERN Developer and Open-Source Enthusiast and a Sophomore pursuing my Bachelors in Computer Science & Engineering.
+🎓 I'm a full stack MERN Developer and Open-Source Enthusiast and a Junior pursuing my Bachelors in Computer Science & Engineering.
 <br/>
 👨‍💻 Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
