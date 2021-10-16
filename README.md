@@ -46,6 +46,6 @@
 
 <hr/>
 
-[![Mohd Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=stark255&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stark255&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![stark255's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stark255&show_icons=true&locale=en&layout=demo&theme=gruvbox)
+[![Mohd Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=stark255&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stark255&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![stark255's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stark255&show_icons=true&locale=en&layout=demo&theme=gruvbox&hide_border=true)
