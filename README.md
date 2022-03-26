@@ -1,5 +1,5 @@
  <p align="center">
-  <a href="https://github.com/stark255">
+  <a href="https://github.com/mohdimran25">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Acme&color=E1E1E1&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+my+name+is+Mohd+Imran;A+Full+Stack+Web+Developer;Feel+free+to+get+in+touch.+%F0%9F%98%84">
   </a>
     </p>
@@ -7,11 +7,11 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mohd-i-448428190/">
+<a href="https://www.linkedin.com/in/mohd-imran25/">
   <img width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>&ensp;
 
-<a href="https://twitter.com/stark_255">
+<a href="https://twitter.com/mohdimran_25">
   <img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>&ensp;
 </p>
@@ -46,6 +46,6 @@
 
 <hr/>
 
-[![Mohd Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=stark255&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![stark255's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stark255&show_icons=true&locale=en&layout=demo&theme=gruvbox&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stark255&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohd Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdimran25&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![mohdimran25's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mohdimran25&show_icons=true&locale=en&layout=demo&theme=gruvbox&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdimran25&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
