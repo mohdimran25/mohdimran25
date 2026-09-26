@@ -1,4 +1,4 @@
-<h1 align="center">Mohd Imran</h1>
+<h1 align="center">Mohd Imran Ali</h1>
 <h3 align="center">☕ Backend Engineer · Java · Spring Boot · SQL</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 public class MohdImran implements BackendEngineer {
 
     private final int yearsOfExperience = 3;   // 3.5+ and counting
-    private final String role = "Java Backend Engineer";
+    private final String role = "Jaava Backend Engineer";
 
     private final List<String> stack = List.of(
         "Java", "Spring Boot", "SQL",
@@ -84,8 +84,11 @@ Docker · Kubernetes · CI/CD pipelines · Git · Linux
 ## 📈 Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohdimran25&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdimran25&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/mohdimran25?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mohdimran25&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=2c5364" alt="Public repos" /></a>
+  <a href="https://github.com/mohdimran25?tab=followers"><img src="https://img.shields.io/github/followers/mohdimran25?label=Followers&style=for-the-badge&logo=github&color=2c5364" alt="Followers" /></a>
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/2c5364/mohdimran25" alt="Contribution graph" width="90%" />
 </p>
 
 ## 📫 Get in Touch
