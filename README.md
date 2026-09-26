@@ -109,6 +109,7 @@ Open to talking about backend systems, Java and system design and engineering le
 <p align="center">
   <a href="https://www.linkedin.com/in/mohd-imran25/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/mohdimran_25"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:ali.mohdimran25@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
