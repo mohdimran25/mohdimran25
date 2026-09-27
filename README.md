@@ -40,7 +40,7 @@ public class MohdImranAli implements TeamLead {
 ## ⚙️ Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,kubernetes,githubactions,jenkins,maven,git,linux,idea,postman,eclipse,vscode&perline=15" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,kubernetes,gitlab,github,githubactions,jenkins,maven,git,linux,idea,postman,eclipse,vscode&perline=15" alt="Tech stack" />
 </p>
 
 <p align="center">
